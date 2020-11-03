@@ -1,0 +1,45 @@
+*{
+	box-sizing: border-box;
+}
+
+
+}
+
+body{
+
+	background-color: #f6f6f6;
+
+width: 1200px;
+height: 675px;
+}
+
+
+.box {
+
+	width: 1010px;
+height: 503px;
+border: 1px solid #d7d7d7;
+background-color: #ffffff;
+position: absolute;
+left: 0;
+right: 0;
+margin: 0 auto;
+top: 101px;
+
+
+}
+
+
+.headphones {
+width: 376px;
+height: 375px;
+padding: 64px 586px 64px 48px;
+
+
+
+}
+
+.text1 {
+padding: 94px 309px 387px 523px;
+
+}
